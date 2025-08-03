@@ -21,21 +21,21 @@ def get_initial_fixture():
         # Hafta 5 (Eski 15. Hafta)
         {"match_id": 15, "home_team": ("Ozan", "Vedat"),     "away_team": ("Özkan", "Tuncay"),   "home_score": None, "away_score": None, "played": False},
         
-        # Hafta 6 (Eski 8. Hafta)
-        {"match_id": 8,  "home_team": ("Vedat", "Mücahit"),  "away_team": ("İsmail", "Özkan"),   "home_score": None, "away_score": None, "played": False},
-            
+        # Hafta 6 (Eski 10. Hafta)
+        {"match_id": 10, "home_team": ("Özkan", "Tuncay"),   "away_team": ("İsmail", "Mücahit"), "home_score": None, "away_score": None, "played": False},
+                
         # Hafta 7 (Eski 13. Hafta)
         {"match_id": 13, "home_team": ("Tuncay", "Ozan"),    "away_team": ("Vedat", "Mücahit"),  "home_score": None, "away_score": None, "played": False},
-        
+       
         # Hafta 8 (Eski 6. Hafta)
         {"match_id": 6,  "home_team": ("Ozan", "Özkan"),     "away_team": ("İsmail", "Vedat"),   "home_score": None, "away_score": None, "played": False},
             
         # Hafta 9 (Eski 11. Hafta)
         {"match_id": 11, "home_team": ("Mücahit", "Tuncay"), "away_team": ("Ozan", "Özkan"),     "home_score": None, "away_score": None, "played": False},
         
-        # Hafta 10 (Aynı)
-        {"match_id": 10, "home_team": ("Özkan", "Tuncay"),   "away_team": ("İsmail", "Mücahit"), "home_score": None, "away_score": None, "played": False},
-        
+        # Hafta 10 (Eski 8. Hafta)
+        {"match_id": 8,  "home_team": ("Vedat", "Mücahit"),  "away_team": ("İsmail", "Özkan"),   "home_score": None, "away_score": None, "played": False},
+               
         # Hafta 11 (Eski 9. Hafta)
         {"match_id": 9,  "home_team": ("Tuncay", "Vedat"),   "away_team": ("İsmail", "Ozan"),    "home_score": None, "away_score": None, "played": False},
         
