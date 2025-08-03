@@ -16,17 +16,17 @@ def get_initial_fixture():
         {"match_id": 2,  "home_team": ("İsmail", "Tuncay"),  "away_team": ("Vedat", "Özkan"),   "home_score": None, "away_score": None, "played": False},
         {"match_id": 3,  "home_team": ("İsmail", "Özkan"),   "away_team": ("Tuncay", "Ozan"),    "home_score": None, "away_score": None, "played": False},
         {"match_id": 4,  "home_team": ("İsmail", "Ozan"),    "away_team": ("Özkan", "Mücahit"),  "home_score": None, "away_score": None, "played": False},
-        {"match_id": 5,  "home_team": ("İsmail", "Mücahit"), "away_team": ("Ozan", "Vedat"),     "home_score": None, "away_score": None, "played": False},
+        {"match_id": 15,  "home_team": ("İsmail", "Mücahit"), "away_team": ("Ozan", "Vedat"),     "home_score": None, "away_score": None, "played": False},
         {"match_id": 6,  "home_team": ("Ozan", "Özkan"),     "away_team": ("İsmail", "Vedat"),   "home_score": None, "away_score": None, "played": False},
-        {"match_id": 7,  "home_team": ("Mücahit", "Ozan"),   "away_team": ("İsmail", "Tuncay"),  "home_score": None, "away_score": None, "played": False},
+        {"match_id": 13,  "home_team": ("Mücahit", "Ozan"),   "away_team": ("İsmail", "Tuncay"),  "home_score": None, "away_score": None, "played": False},
         {"match_id": 8,  "home_team": ("Vedat", "Mücahit"),  "away_team": ("İsmail", "Özkan"),   "home_score": None, "away_score": None, "played": False},
-        {"match_id": 9,  "home_team": ("Tuncay", "Vedat"),   "away_team": ("İsmail", "Ozan"),    "home_score": None, "away_score": None, "played": False},
+        {"match_id": 11,  "home_team": ("Tuncay", "Vedat"),   "away_team": ("İsmail", "Ozan"),    "home_score": None, "away_score": None, "played": False},
         {"match_id": 10, "home_team": ("Özkan", "Tuncay"),   "away_team": ("İsmail", "Mücahit"), "home_score": None, "away_score": None, "played": False},
-        {"match_id": 11, "home_team": ("Mücahit", "Tuncay"), "away_team": ("Ozan", "Özkan"),     "home_score": None, "away_score": None, "played": False},
+        {"match_id": 9, "home_team": ("Mücahit", "Tuncay"), "away_team": ("Ozan", "Özkan"),     "home_score": None, "away_score": None, "played": False},
         {"match_id": 12, "home_team": ("Vedat", "Özkan"),    "away_team": ("Mücahit", "Ozan"),   "home_score": None, "away_score": None, "played": False},
-        {"match_id": 13, "home_team": ("Tuncay", "Ozan"),    "away_team": ("Vedat", "Mücahit"),  "home_score": None, "away_score": None, "played": False},
+        {"match_id": 7, "home_team": ("Tuncay", "Ozan"),    "away_team": ("Vedat", "Mücahit"),  "home_score": None, "away_score": None, "played": False},
         {"match_id": 14, "home_team": ("Özkan", "Mücahit"),  "away_team": ("Tuncay", "Vedat"),   "home_score": None, "away_score": None, "played": False},
-        {"match_id": 15, "home_team": ("Ozan", "Vedat"),     "away_team": ("Özkan", "Tuncay"),   "home_score": None, "away_score": None, "played": False},
+        {"match_id": 5, "home_team": ("Ozan", "Vedat"),     "away_team": ("Özkan", "Tuncay"),   "home_score": None, "away_score": None, "played": False},
     ]
 
 def load_data():
